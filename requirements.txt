@@ -4,5 +4,3 @@ pandas
 sqlalchemy
 pymysql
 
-pip install fastapi uvicorn pandas sqlalchemy pymysql scikit-learn openai
-
